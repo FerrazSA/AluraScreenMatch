@@ -10,6 +10,7 @@ public class Serie extends Titulo {
         super(nome, anoDeLancamento);
     }
 
+
     public int getTemporadas() {
         return temporadas;
     }
